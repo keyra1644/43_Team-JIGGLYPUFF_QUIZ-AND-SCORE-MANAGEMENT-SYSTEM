@@ -49,7 +49,7 @@ Build a command-line quiz application in C that presents multiple-choice questio
 7. **If Choice == 3:** Exit program.
 
 ### Program Flowchart
-![Program Flowchart](flowchart.png)
+![Program Flowchart](flowchart_mini_hackathon.png)
 
 ---
 
