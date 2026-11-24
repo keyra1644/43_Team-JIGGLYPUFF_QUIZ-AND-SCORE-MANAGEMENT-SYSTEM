@@ -12,7 +12,7 @@ Build a command-line quiz application in C that presents multiple-choice questio
 
 ## 2. Team Details
 * **Batch:** `43`
-* **Team Number:** `Team JIGGLYPUFF`
+* **Team Name:** `Team JIGGLYPUFF`
 
 ---
 
