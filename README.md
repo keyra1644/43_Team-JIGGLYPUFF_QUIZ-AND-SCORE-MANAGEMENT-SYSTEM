@@ -11,12 +11,8 @@ Build a command-line quiz application in C that presents multiple-choice questio
 ---
 
 ## 2. Team Details
-* **Batch:** `[Enter Batch No.]`
-* **Team Number:** `[Enter Team No.]`
-* **Team Members:**
-  1. `[Member 1 Name]`
-  2. `[Member 2 Name]`
-  3. `[Member 3 Name]`
+* **Batch:** `43`
+* **Team Number:** `Team JIGGLYPUFF`
 
 ---
 
